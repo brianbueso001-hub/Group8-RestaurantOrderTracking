@@ -10,5 +10,5 @@ The primary goal of the Restaurant Order Tracking System is to focus on establis
 # Assigned Roles
 - Project Manager: Brian Bueso
 - Documentation Manager: Pierina Flores
-- GitHub Coordinator:
+- GitHub Coordinator: Matthew Mazuelos
 - Software Developer:
