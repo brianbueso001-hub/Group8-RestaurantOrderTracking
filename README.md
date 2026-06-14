@@ -8,3 +8,7 @@ The Restaurant Order Tracking System is a Python based application designed to m
 The primary goal of the Restaurant Order Tracking System is to focus on establishing a reliable environment for restaurant operations. The system aims to help restaurant staff by providing a rapid text-based system which will allow them to add, search, and update orders instantly without manual delays. The software will provide workflow visibility, and enforce data entry for the three status values (Preparing, Ready, Completed) which will eliminate staff miscommunication regarding the status of the order. Lastly, the goal of the project is to prioritize data reliability by ensuring that the backend structure can maintain, track and modify a minimum of 25 order records without risk of corruption. 
 
 # Assigned Roles
+- Project Manager: Brian Bueso
+- Documentation Manager:
+- GitHub Coordinator:
+- Software Developer:
